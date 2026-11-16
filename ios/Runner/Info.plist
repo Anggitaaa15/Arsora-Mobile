@@ -66,5 +66,8 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Arsora membutuhkan akses galeri untuk memilih foto lukisan.</string>
 </dict>
 </plist>
